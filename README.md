@@ -24,3 +24,14 @@ Implemented camera input so the system could read real-time video from a webcam.
 Integrated the machine-learning model into our project’s code so that the camera feed was continuously analyzed.
 
 Helped my team test and optimized the model, adjusting confidence thresholds to reduce false positives and improve detection reliability.
+
+
+# Challenges 
+
+It was very hard to get the code from Teachable Machines to run in VS Code and took multiple hours getting it to work on my personal machine
+
+
+# Final Comments 
+Thank you Dr. Elahe for helping us out and supplying us the correct materials + great advice!
+
+Thank you Teachable Machines for the easy to use website: https://teachablemachine.withgoogle.com/
