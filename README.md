@@ -23,6 +23,4 @@ Implemented camera input so the system could read real-time video from a webcam.
 
 Integrated the machine-learning model into our project’s code so that the camera feed was continuously analyzed.
 
-Wrote logic that sent signals to the Arduino when the model predicted that a car was present with high confidence. This allowed the garage door to automatically open when a car approached.
-
-Tested and optimized the model, adjusting confidence thresholds to reduce false positives and improve detection reliability.
+Helped my team test and optimized the model, adjusting confidence thresholds to reduce false positives and improve detection reliability.
