@@ -35,3 +35,5 @@ It was very hard to get the code from Teachable Machines to run in VS Code and t
 Thank you Dr. Elahe Javadi for your guidenca and help!
 
 Thank you Teachable Machines for the easy to use website: https://teachablemachine.withgoogle.com/
+
+Watch The Teachable Machines Walkthrough with this link: https://www.youtube.com/watch?v=2LfdRR7Xt5c    - If that link is invalid search on youtube "Automated Garage Door Using Teachable Machines Guide Through"
