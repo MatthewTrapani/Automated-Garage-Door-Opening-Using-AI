@@ -10,14 +10,14 @@ For this project, I was responsible for developing the AI system that allowed th
 
 # What I Did
 
-Collected and prepared training data by taking multiple images of the car from different angles and lighting conditions.
+Collected and prepared training data by taking multiple images of the car.
 
 Trained an image classification model using Teachable Machine, creating two classes:
 
 Car Detected
 No Car Detected
 
-Exported the trained model as a TensorFlow.js model for use in our web-based camera interface.
+Exported the trained model as a TensorFlow model for use in our web-based camera interface.
 
 Implemented camera input so the system could read real-time video from a webcam.
 
@@ -32,6 +32,6 @@ It was very hard to get the code from Teachable Machines to run in VS Code and t
 
 
 # Final Comments 
-Thank you Dr. Elahe for helping us out and supplying us the correct materials + great advice!
+Thank you Dr. Elahe Javadi for your guidenca and help!
 
 Thank you Teachable Machines for the easy to use website: https://teachablemachine.withgoogle.com/
